@@ -7,7 +7,10 @@ Visando uma avaliação mais ágil e eficaz da evolução do roadmap, devemos ut
   - Semana 14
     - {Tema do exercício/atividade} Ex. Herança
       - Arquivos
-      - README.md file (considerar obrigatório os itens: "Título e breve descrição do projeto", "Guia de instalação" e "Pré-requisitos" do [link](https://www.embarcados.com.br/o-que-escrever-num-readme))
+      - README.md file (considerar obrigatório o item: "Título e breve descrição do projeto", a necessidade dos itens "Guia de instalação" e "Pré-requisitos" varia de acordo com a atividade [link de referência](https://www.embarcados.com.br/o-que-escrever-num-readme))
+    - {Tema do exercício/atividade} Ex. React Hooks
+      - Arquivos
+      - README.md file (considerar obrigatório o item: "Título e breve descrição do projeto", a necessidade dos itens "Guia de instalação" e "Pré-requisitos" varia de acordo com a atividade [link de referência](https://www.embarcados.com.br/o-que-escrever-num-readme))
   - Semana 15
   - Semana 16
   - Semana 17
