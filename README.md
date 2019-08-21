@@ -12,7 +12,7 @@ Visando uma avaliação mais ágil e eficaz da evolução do roadmap, devemos ut
   - Semana 16
   - Semana 17
   - Semana 18
-  - README.md file do projeto separado por semana e itens no formato:
+  - README.md file do projeto separado por semana e itens de estudo no formato:
     - Semana 14
       - Herança
       - Polimorfismo
